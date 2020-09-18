@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 [![Ods.ai Badge](https://img.shields.io/badge/-averkij-white?style=flat&logo=odsai&logoColor=crimson&link=hhttps://ods.ai/users/4ca9688002f6)](https://ods.ai/users/4ca9688002f6)
 ![Profile views](https://gpvc.arturio.dev/averkij)
 
-- ⚡ Currently I'm evolving in the field of ML/DS and DevOps/MLOps.
+- ⚡ Currently I'm evolving in the field of ML and DevOps/MLOps.
 - 🌱 My main interests in this area are NLP and RecSys.
 - 😄 Beside work I like to learn languages (Russian, English, German, Czech, Hungarian, Japanese), play football and guitar.
 - 💬 Ask me about how to pronounce "Köszönöm" in Hungarian and what does 侍 mean.
