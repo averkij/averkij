@@ -17,14 +17,14 @@ Here are some ideas to get you started:
 ### Hi there, I'm Sergei 👋
 [![Twitter Follow](https://img.shields.io/twitter/follow/averkij?label=Follow)](https://twitter.com/averkij)
 [![Linkedin: averkieff](https://img.shields.io/badge/-Sergei%20Averkiev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/averkieff/)](https://www.linkedin.com/in/averkieff/)
-[![Habr Badge](https://img.shields.io/badge/-artgor-47CCCC?style=flat&logo=habr&logoColor=white&link=https://habr.com/ru/users/averkij/)](https://habr.com/ru/users/averkij/)
-[![Ods.ai Badge](https://img.shields.io/badge/-artgor-white?style=flat&logo=odsai&logoColor=crimson&link=hhttps://ods.ai/users/4ca9688002f6)](https://ods.ai/users/4ca9688002f6)
+[![Habr Badge](https://img.shields.io/badge/-averkij-47CCCC?style=flat&logo=habr&logoColor=white&link=https://habr.com/ru/users/averkij/)](https://habr.com/ru/users/averkij/)
+[![Ods.ai Badge](https://img.shields.io/badge/-averkij-white?style=flat&logo=odsai&logoColor=crimson&link=hhttps://ods.ai/users/4ca9688002f6)](https://ods.ai/users/4ca9688002f6)
 ![Profile views](https://gpvc.arturio.dev/averkij)
 
-⚡ Currently I'm evolving in the field of ML/DS and DevOps/MLOps.
-🌱 My main interests in this area are NLP and RecSys.
-😄 Beside work I like to learn languages (Russian, English, German, Czech, Hungarian, Japanese), play football and guitar.
-💬 Ask me about how to pronounce "Köszönöm" in Hungarian and what does 侍 mean.
+- ⚡ Currently I'm evolving in the field of ML/DS and DevOps/MLOps.
+- 🌱 My main interests in this area are NLP and RecSys.
+- 😄 Beside work I like to learn languages (Russian, English, German, Czech, Hungarian, Japanese), play football and guitar.
+- 💬 Ask me about how to pronounce "Köszönöm" in Hungarian and what does 侍 mean.
 
 I'm also writing articles time to time:
 
