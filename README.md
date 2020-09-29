@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - ⚡ Currently I'm evolving in the field of ML and DevOps/MLOps.
 - 🌱 My main interests in this area are NLP and RecSys.
-- 😄 Beside work I like to learn languages (Russian, English, German, Czech, Hungarian, Japanese), play football and guitar.
+- 😄 Besides my work I like to learn languages (Russian, English, German, Czech, Hungarian, Japanese).
 - 💬 Ask me about how to pronounce "Köszönöm" in Hungarian and what does 侍 mean.
 
 I'm also writing articles time to time:
