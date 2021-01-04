@@ -30,6 +30,7 @@ I'm also writing articles time to time:
 
 #### Habr (russian language)
 <!-- HABR:START -->
+- [Ваш pet-project будет доволен. Как вдохнуть жизнь в свои наработки](https://habr.com/ru/post/530106/)
 - [Делаем параллельный корпус из книг с помощью sentence embeddings](https://habr.com/ru/post/517226/)
 - [Рецепт квантовой памяти](https://habr.com/ru/post/518312/)
 - [Конфуций и Маргарита](https://habr.com/ru/post/515346/)
