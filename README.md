@@ -30,6 +30,7 @@ I'm also writing articles time to time:
 
 #### Habr (russian language)
 <!-- HABR:START -->
+- [Популярная лингвистика. Часть 1. Маме — пиджин, детям — креол](https://habr.com/ru/post/530872/)
 - [Ваш pet-project будет доволен. Как вдохнуть жизнь в свои наработки](https://habr.com/ru/post/530106/)
 - [Делаем параллельный корпус из книг с помощью sentence embeddings](https://habr.com/ru/post/517226/)
 - [Рецепт квантовой памяти](https://habr.com/ru/post/518312/)
