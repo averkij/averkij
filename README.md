@@ -30,10 +30,11 @@ I'm also writing articles time to time:
 
 #### Medium
 
+- 💡 [How to create bilingual books. Part 2. Lingtrain Alignment Studio](https://medium.com/@averoo/how-to-create-bilingual-books-part-2-lingtrain-alignment-studio-ffa56c9c07a6)
 - 💡 [How to make a parallel texts for language learning. Part 1. Python and Colab version](https://medium.com/@averoo/how-to-make-a-parallel-book-for-language-learning-part-1-python-and-colab-version-cff09e379d8c)
 
 #### Habr
-<!-- HABR:START -->
+
 - 🔥 [Приложение для создания параллельных книг, которое вас удивит](https://habr.com/ru/post/564944/)
 - 📌 [Сам себе Гутенберг. Делаем параллельные книги](https://habr.com/ru/post/557664/)
 - 📌 [Сам себе Гутенберг. Делаем многоязычные параллельные книги](https://habr.com/ru/post/560692/)
@@ -46,4 +47,4 @@ I'm also writing articles time to time:
 - 🐕 [Ваш pet-project будет доволен. Как вдохнуть жизнь в свои наработки](https://habr.com/ru/post/530106/)
 - 🧠 [Рецепт квантовой памяти](https://habr.com/ru/post/518312/)
 - 🈴 [Конфуций и Маргарита](https://habr.com/ru/post/515346/)
-<!-- HABR:END -->
+
