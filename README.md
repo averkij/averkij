@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - ⚡ Working in the field of ML and MLOps.
 - 🌱 My main interest in this area is mostly NLP.
-- 😄 Besides my work I like to learn languages (Russian, English, German, Czech, Hungarian, Japanese).
+- 😄 Besides my work I like to learn languages (Chinese, Russian, English, German, Czech, Hungarian, Japanese).
 - 💬 Ask me about how to pronounce "Köszönöm" in Hungarian and what does 侍 mean.
 
 I'm also writing articles time to time:
