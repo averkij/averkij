@@ -1,19 +1,3 @@
-
-<!--
-**averkij/averkij** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ### Hi there, I'm Sergei 👋
 [![Twitter Follow](https://img.shields.io/twitter/follow/averkij?label=Follow)](https://twitter.com/averkij)
 [![Linkedin: averkieff](https://img.shields.io/badge/-Sergei%20Averkiev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/averkieff/)](https://www.linkedin.com/in/averkieff/)
@@ -21,12 +5,16 @@ Here are some ideas to get you started:
 [![Ods.ai Badge](https://img.shields.io/badge/-averkij-white?style=flat&logo=odsai&logoColor=crimson&link=hhttps://ods.ai/users/4ca9688002f6)](https://ods.ai/users/4ca9688002f6)
 ![Profile views](https://gpvc.arturio.dev/averkij)
 
-- ⚡ Working in the field of ML and MLOps.
+- 🚀 Working in the field of ML and MLOps.
 - 🌱 My main interest in this area is mostly NLP.
 - 😄 Besides my work I like to learn languages (Chinese, Russian, English, German, Czech, Hungarian, Japanese).
 - 💬 Ask me about how to pronounce "Köszönöm" in Hungarian and what does 侍 mean.
+- 🖋️ I'm also writing articles time to time.
 
-I'm also writing articles time to time:
+#### Channels
+
+- ⚡ [The Doomed Gradient](https://t.me/doomgrad) — Telegram channel about ML and stuff
+- 🔥 [Lingtrain Books](https://t.me/lingtrain_books) — Chat dedicated to the Lingtrain project
 
 #### Medium
 
@@ -35,6 +23,7 @@ I'm also writing articles time to time:
 
 #### Habr
 
+- 🔨 [Инфоинженер. Как я делал курс по NLP для МГТУ им. Баумана](https://habr.com/ru/post/674354/)
 - 🔥 [Lingtrain Studio. Книги для всех, даром](https://habr.com/ru/company/ods/blog/669990/)
 - 🔥 [Lingtrain Studio. Приложение для создания параллельных книг, которое вас удивит](https://habr.com/ru/post/564944/)
 - 🧩 [Я уеду жить в Лейнвуд. Создаем новые слова при помощи GPT](https://habr.com/ru/post/672434/)
