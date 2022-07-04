@@ -16,11 +16,6 @@
 - ⚡ [The Doomed Gradient](https://t.me/doomgrad) — Telegram channel about ML and stuff
 - 🔥 [Lingtrain Books](https://t.me/lingtrain_books) — Chat dedicated to the Lingtrain project
 
-#### Medium
-
-- 💡 [How to create bilingual books. Part 2. Lingtrain Alignment Studio](https://medium.com/@averoo/how-to-create-bilingual-books-part-2-lingtrain-alignment-studio-ffa56c9c07a6)
-- 💡 [How to make a parallel texts for language learning. Part 1. Python and Colab version](https://medium.com/@averoo/how-to-make-a-parallel-book-for-language-learning-part-1-python-and-colab-version-cff09e379d8c)
-
 #### Habr
 
 - 🔨 [Инфоинженер. Как я делал курс по NLP для МГТУ им. Баумана](https://habr.com/ru/post/674354/)
@@ -40,3 +35,8 @@
 - 🧠 [Рецепт квантовой памяти](https://habr.com/ru/post/518312/)
 - 🈴 [Конфуций и Маргарита](https://habr.com/ru/post/515346/)
 
+
+#### Medium
+
+- 💡 [How to create bilingual books. Part 2. Lingtrain Alignment Studio](https://medium.com/@averoo/how-to-create-bilingual-books-part-2-lingtrain-alignment-studio-ffa56c9c07a6)
+- 💡 [How to make a parallel texts for language learning. Part 1. Python and Colab version](https://medium.com/@averoo/how-to-make-a-parallel-book-for-language-learning-part-1-python-and-colab-version-cff09e379d8c)
