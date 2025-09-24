@@ -18,6 +18,9 @@
 
 #### Habr
 
+- 🐉 [DRAGON: динамический бенчмарк для оценки RAG-систем на русском языке](https://habr.com/ru/companies/sberbank/articles/931000/)
+- 🤖 [Как Cursor устроен изнутри. Часть 2](https://habr.com/ru/articles/920660/)
+- 🤖 [Как Cursor устроен изнутри. Часть 1](https://habr.com/ru/articles/919636/)
 - 🧔🏼‍♂️ [В гостях у классиков. Модели для генерации фото с русскими писателями (FLUX + LoRA)](https://habr.com/ru/articles/872926/)
 - ⌛️ [Создаем воспоминания. Осваиваем FLUX, LoRA и ComfyUI](https://habr.com/ru/companies/ods/articles/871256/)
 - 👅 [Язык твой — друг твой. Развиваем малые языки](https://habr.com/ru/articles/791188/)
