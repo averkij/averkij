@@ -18,6 +18,7 @@
 
 #### Habr
 
+- 🤖 [Как устроен Codex](https://habr.com/ru/companies/ods/articles/1001012/)
 - 🐉 [DRAGON: динамический бенчмарк для оценки RAG-систем на русском языке](https://habr.com/ru/companies/sberbank/articles/931000/)
 - 🤖 [Как Cursor устроен изнутри. Часть 2](https://habr.com/ru/articles/920660/)
 - 🤖 [Как Cursor устроен изнутри. Часть 1](https://habr.com/ru/articles/919636/)
