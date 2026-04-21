@@ -11,6 +11,10 @@
 - 💬 Ask me about how to pronounce "Köszönöm" in Hungarian and what does 侍 mean.
 - 🖋️ I'm also writing articles time to time.
 
+#### Projects
+
+- 📌 [Lingtrain.ru](https://lingtrain.ru) — Lingtrain portal with blog, aligner, reader app and language learning courses
+
 #### Channels
 
 - ⚡ [The Doomed Gradient](https://t.me/doomgrad) — Telegram channel about ML and stuff
